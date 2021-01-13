@@ -24,7 +24,7 @@ graphics.off()
 Sys.sleep(1) #pause just a little for dailogs
 data_folder <- tk_choose.dir(getwd(), caption = "Select directory")
 
-#data_folder = "C:/Users/aaron.beach/OneDrive - nswis.com.au/R/Canoe Race Model/data"
+#data_folder = "C:/Users/"
 
 
 
